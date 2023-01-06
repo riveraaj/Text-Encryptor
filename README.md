@@ -1,7 +1,4 @@
-![Design image]
-
-(https://raw.githubusercontent.com/riveraaj/Text-Encryptor/main/public/images/Encriptador%20-%201%20Desktop.png)
-[![Encriptador-1-Desktop.png](https://i.postimg.cc/6350X8yw/Encriptador-1-Desktop.png)](https://postimg.cc/Lqwfk6t0)
+[!Design image](https://raw.githubusercontent.com/riveraaj/Text-Encryptor/main/public/images/Encriptador%20-%201%20Desktop.png)
 
 * Resume
 
