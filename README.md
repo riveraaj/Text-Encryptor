@@ -1,5 +1,7 @@
-[!Design image](https://raw.githubusercontent.com/riveraaj/Text-Encryptor/main/public/images/Encriptador%20-%201%20Desktop.png)]
 [![Encriptador-1-Desktop.png](https://i.postimg.cc/6350X8yw/Encriptador-1-Desktop.png)](https://postimg.cc/Lqwfk6t0)
+
+Link
+
 * Resume
 
 This is the first Challenge of the ONE - Oracle Next Education program. This application has the function of encrypting and decoding text messages in a simple way. With the aim of exchanging information with other people in a safe and fun way.
