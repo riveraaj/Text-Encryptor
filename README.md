@@ -1,2 +1,2 @@
 # Text-Encryptor
-Oracle ONE Program Challenge by Jonathan Rivera
+Sprint 01: Construye un encriptador de texto con Javascript | by Jonathan Rivera
