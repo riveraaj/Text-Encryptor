@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="public/css/normalize.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="public/css/header.css">
+    <link rel="stylesheet" href="public/css/main.css">
+    <link rel="stylesheet" href="public/css/footer.css">
+</head>
+<body>
+    <header>
+        <div id="container-header">
+            <img src="public/images/Logo.svg" alt="Logo Aura">
+        </div>
+    </header>
+    <main>
+        <div id="container-encrypt">
+            <div id="waiting-encrypt">
+                <textarea name="text-to-encrypt" id="text-to-encrypt" placeholder="Ingrese el texto aqui"></textarea>
+                <small><i class="bi bi-info-circle-fill"></i> Solo letras minúsculas y sin acentos</small>
+                <div id="container-buttons-script">
+                    <button id="encrypt">Encriptar</button>
+                    <button id="decrypt">Desencriptar</button>
+                </div>
+            </div>
+            <div id="working-encrypt">
+                <div id="container-items">
+                    <div id="container-img">
+                        <img src="public/images/item-grup-1.svg" alt="Persona sentada viendo un diamante por una lupa">
+                    </div>
+                    <div id="msg-grup">
+                        <span>Ningún mensaje fue encontrado</span>
+                        <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+                    </div>
+                </div>
+                <div id="container-result-encrypt">
+                    <p id="container-result-encrypt-p"></p>
+                    <button id="copy-text-result">Copiar</button>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <small>Copyright © 2023 Jonathan Rivera</small>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <script src="public/js/main.js"></script>
+</body>
+</html>
