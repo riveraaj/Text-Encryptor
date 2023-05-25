@@ -29,3 +29,7 @@ This is the first Challenge of the ONE - Oracle Next Education program. This app
 * Additional characteristics:
 
   - A button that copies the encrypted/decrypted text for the transfer section, that is, it has the same functionality as ctrl+C or the "copy" option in the applications     menu.
+
+
+
+
